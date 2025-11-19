@@ -1,4 +1,4 @@
-# ☁️ Cloud Data Storage Platform
+#  Cloud Data Storage Platform
 
 A secure web-based cloud storage application built using **HTML, CSS, PHP, and MySQL**.  
 This platform allows users to:
@@ -11,16 +11,16 @@ This platform allows users to:
 ✅ Private storage for each user  
 ✅ User-specific folders  
 
----
 
-## 🚀 Features
 
-### 🔐 User Authentication
+##  Features
+
+###  User Authentication
 - Secure password hashing
 - Unique username & email validation
 - Login/Logout system
 
-### ☁️ File Management
+###  File Management
 - Upload any file type
 - Image preview support (JPG, PNG, GIF)
 - Download files
@@ -30,13 +30,13 @@ This platform allows users to:
   uploads/user_USERID/
   
 
-### 🗄️ Database Tables
+###  Database Tables
 - **users** → stores login details  
 - **files** → stores uploaded file paths  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** HTML, CSS  
 - **Backend:** PHP  
@@ -46,7 +46,7 @@ This platform allows users to:
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. Install XAMPP  
 2. Copy project folder to:
